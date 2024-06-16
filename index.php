@@ -18,7 +18,7 @@ if (isset($_SESSION['user_id'])) {
 
     $isAdmin = ($role == 'admin');
 }
-?>
+?> 
 
 <!DOCTYPE html>
 <html>
